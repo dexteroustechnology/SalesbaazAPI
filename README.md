@@ -1,2 +1,1 @@
-# SalesbaazAPI
-Salesbeez Backend
+# salesbeez-api
